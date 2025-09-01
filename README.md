@@ -45,6 +45,8 @@ Currently, I collaborate in research projects focused on:
 - Emal: [majiso.estudios@gmail.com]
 - GitHub: [mateomics](https://github.com/mateomics)  
 - [LinkedIn](https://www.linkedin.com/in/mateo-jiménez-sotelo-0bb207311/)
+- [ResearchGate](https://www.researchgate.net/profile/Mateo-Jimenez-14?ev=hdr_xprf)
+- [ORCID](https://orcid.org/0009-0000-6459-1688)
 ---
 
 > *"Nothing in biology makes sense except in the light of evolution." – Theodosius Dobzhansky*
