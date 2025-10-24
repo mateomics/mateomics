@@ -12,22 +12,47 @@ Currently, I collaborate in research projects focused on:
 - Molecular anthropology and bioarchaeogenetics
 - Transcriptomics and regulatory network analysis
 - Scientific computing and reproducible research
+- Programming and algorithms development
+- Statisics
+- Mathematical modeling
 
 ---
 
 ## Skills
 
-**Languages & tools**  
-`Python` · `R` · `C` · `Bash` · `Git`  
-`Conda` · `pandas`
+### Programming Languajes
+- `Python` (Advanced)
+- `R` (Intermediate)
+- `Bash` (Intermediate)
+- `C` (Intermediate)
+- `Perl` (Basic)
+- `Julia` (Basic)
+
+### Bioinformatics & Genomics
+- **Tools:** `bcftools` `samtools` `PLINK` `LSQ Project`
+- **Methods:** Admixture/Structure analysis, Sequence Alignment & Assembly, Bayesian Inference
+
+### Data Science & Machine Learning
+**Libraries/Frameworks**: `pandas` `Transformers`
+**Techniques**: Natural Language Processing (NLP), Hidden Markov Models (HMM), Conditional Random Fields (CRF), Dimensionality reduction (PCA), Quantile Normalization
+
+### Development & Environments
+- `Git`
+- `Conda`
+- `Jupyter Notebooks`
+- `R Markdown`
 
 ---
 
 ## Academic background
 
+### Studies
 **Undergraduate student** – Genomic Sciences  
 [Center for Genomic Sciences – UNAM](https://www.ccg.unam.mx/en)  
 2024–present
+
+### Awards
+**Gold Medal** - Mexico City Biology Olympiad 2023 (High School Level)
 
 ---
 
@@ -42,11 +67,13 @@ Currently, I collaborate in research projects focused on:
 ## Contact me!
 
 - Email: [majiso@lcg.unam.mx]  
-- Emal: [majiso.estudios@gmail.com]
+- Email: [majiso.estudios@gmail.com]
 - GitHub: [mateomics](https://github.com/mateomics)  
 - [LinkedIn](https://www.linkedin.com/in/mateo-jiménez-sotelo-0bb207311/)
 - [ResearchGate](https://www.researchgate.net/profile/Mateo-Jimenez-14?ev=hdr_xprf)
 - [ORCID](https://orcid.org/0009-0000-6459-1688)
+- [Bluesky](https://bsky.app/profile/mateojs.bsky.social)
+- [Instagram](https://www.instagram.com/mateojs_?igsh=a2YxcW1tMXRxcHNq)
 ---
 
 > *"Nothing in biology makes sense except in the light of evolution." – Theodosius Dobzhansky*
