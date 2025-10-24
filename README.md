@@ -3,7 +3,7 @@ I'm a second year [Genomic Sciences](https://www.lcg.unam.mx) undergrad at [UNAM
 
 Currently, I collaborate in research projects focused on:
 
-- **Systems biology**: curation and normalization of microarray *metadata* for large-scale transcriptomic analyses
+- **Systems computational biology**: curation and normalization of microarray *metadata* for large-scale transcriptomic analyses
 - **Paleogenomics**: studying ancient pathogens from colonial-era populations in *New Spain*
 ---
 ## Interests
