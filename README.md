@@ -69,7 +69,7 @@ Currently, I collaborate in research projects focused on:
 - Email: [majiso@lcg.unam.mx]  
 - Email: [majiso.estudios@gmail.com]
 - GitHub: [mateomics](https://github.com/mateomics)  
-- [LinkedIn](https://www.linkedin.com/in/mateo-jiménez-sotelo-0bb207311/)
+- [LinkedIn](https://www.linkedin.com/in/majiso/)
 - [ResearchGate](https://www.researchgate.net/profile/Mateo-Jimenez-14?ev=hdr_xprf)
 - [ORCID](https://orcid.org/0009-0000-6459-1688)
 - [Bluesky](https://bsky.app/profile/mateojs.bsky.social)
