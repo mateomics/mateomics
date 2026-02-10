@@ -72,8 +72,8 @@ Currently, I collaborate in research projects focused on:
 - [LinkedIn](https://www.linkedin.com/in/majiso/)
 - [ResearchGate](https://www.researchgate.net/profile/Mateo-Jimenez-14?ev=hdr_xprf)
 - [ORCID](https://orcid.org/0009-0000-6459-1688)
-- [Bluesky](https://bsky.app/profile/mateojs.bsky.social)
-- [Instagram](https://www.instagram.com/mateojs_?igsh=a2YxcW1tMXRxcHNq)
+- [Bluesky](https://bsky.app/profile/mateomics.bsky.social)
+- [Instagram](https://www.instagram.com/mateomics/)
 ---
 
 > *"Nothing in biology makes sense except in the light of evolution." – Theodosius Dobzhansky*
