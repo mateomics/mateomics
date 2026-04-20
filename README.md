@@ -75,5 +75,3 @@ Currently, I collaborate in research projects focused on:
 - [Bluesky](https://bsky.app/profile/mateomics.bsky.social)
 - [Instagram](https://www.instagram.com/mateomics/)
 ---
-
-> *"Nothing in biology makes sense except in the light of evolution." – Theodosius Dobzhansky*
